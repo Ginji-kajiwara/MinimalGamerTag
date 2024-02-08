@@ -55,4 +55,4 @@ https://www.figma.com/file/sbcZv85KzMqRHp4kjmJ1Mj/%E7%94%BB%E9%9D%A2%E9%81%B7%E7
 
 ### ER図
 
-https://gyazo.com/d804c3790f2fbb259d1fa69715177617
+https://gyazo.com/601e3b3bcaa6e0fef69e96f49dc6a36f
